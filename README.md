@@ -13,6 +13,14 @@ com Java e Spring Boot.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+### Experiência
+
+**Suporte Técnico N1 → N2** · WSNET Telecom (provedor de internet) · mar/2024 – mai/2026
+
+Atendimento técnico a clientes por telefone e WhatsApp, diagnóstico e resolução de problemas de conexão e
+lentidão e configuração de roteadores. Promovido a N2 em setembro de 2025, passei a atender casos mais
+complexos, apoiar a equipe em casos escalados e treinar novos colaboradores.
+
 ### Projeto
 
 **[JobAI — API de Contas](https://github.com/mxtheustw/jobai-api)**
