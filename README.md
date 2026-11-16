@@ -1,6 +1,6 @@
 ## Matheus Silva
 
-Estudante de **Engenharia de Software** (4º semestre) em São Paulo, com foco em **desenvolvimento back-end**
+Estudante de **Engenharia de Software** na **UNINTER** (4º semestre) em São Paulo, com foco em **desenvolvimento back-end**
 com Java e Spring Boot.
 
 **Objetivo:** estágio em desenvolvimento back-end.
@@ -29,4 +29,4 @@ voltada à busca automatizada de vagas de emprego compatíveis com o perfil de c
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-da-silva-87b846238)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusilva-dev)
